@@ -1,4 +1,4 @@
-# 📚 BiblioTech - Système de Gestion de Bibliothèque
+#  BiblioTech - Système de Gestion de Bibliothèque
 
 ## Description Courte
 
@@ -96,4 +96,5 @@ Quantité : 5
 ID Adhérent : 101
 
 Date de retour prévue : [Date du jour + 14 jours]
+
 
