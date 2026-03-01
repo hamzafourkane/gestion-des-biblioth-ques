@@ -36,7 +36,7 @@ BiblioTech est une application desktop Java Swing pour la gestion complète d'un
 
 ---
 
-## 🏁 Démarrage rapide
+##  Démarrage rapide
 
 ###  Via Eclipse
 1. Localisez la classe principale : [`Main.java`](src/com/biblio/main/Main.java)
