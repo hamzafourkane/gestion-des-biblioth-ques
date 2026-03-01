@@ -3,7 +3,7 @@
 ## Description
 BiblioTech est une application desktop Java Swing pour la gestion complète d'une bibliothèque : gestion des livres, adhérents, emprunts et retours. Le projet met en œuvre la POO, JDBC et une architecture MVC.
 
----
+
 
 ## Fonctionnalités
 - Gestion des livres (ajout, modification, suppression)
@@ -12,14 +12,14 @@ BiblioTech est une application desktop Java Swing pour la gestion complète d'un
 - Statistiques et historique
 - Authentification (admin, utilisateur)
 
----
+
 
 ## Prérequis
 - **Java JDK** : 8, 11 ou 17 (recommandé)
 - **IDE** : Eclipse ou IntelliJ IDEA
 - **SGBD** : MySQL
 
----
+
 
 ## 🚀 Installation
 
@@ -34,7 +34,7 @@ BiblioTech est une application desktop Java Swing pour la gestion complète d'un
 3. Ajoutez le driver JDBC : `Build Path > Configure Build Path > Add External JARs` (fichier .jar dans `/lib`).
 4. Configurez la connexion dans la classe `DbConnection.java` avec vos identifiants locaux.
 
----
+
 
 ## 🏁 Démarrage rapide
 
@@ -45,7 +45,7 @@ BiblioTech est une application desktop Java Swing pour la gestion complète d'un
 ### 📦 Via Exécutable (si généré)
 ```sh
 java -jar BiblioTech.jar
-```
+
 
 
 ## 🧪 Données de test
