@@ -56,12 +56,4 @@ java -jar BiblioTech.jar
 | Administrateur | hamza       | 1212         |
 | Utilisateur    | user123     | user123      |
 
-###  Exemples d'objets
-- **Ajout livre** :
-	- Titre : *Le Petit Prince*
-	- ISBN : `978-3-16-148410-0`
-	- Quantité : `5`
-- **Emprunt** :
-	- ID Adhérent : `101`
-	- Date retour prévue : `[Date du jour + 14 jours]`
 
